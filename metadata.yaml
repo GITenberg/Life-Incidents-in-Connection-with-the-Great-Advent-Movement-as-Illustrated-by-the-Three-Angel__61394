@@ -1,0 +1,31 @@
+_repo: Life-Incidents-in-Connection-with-the-Great-Advent-Movement-as-Illustrated-by-the-Three-Angel__61394
+_version: 0.0.1
+creator:
+  author:
+    agent_name: White, James
+    alias: White, James Springer
+    birthdate: 1821
+    deathdate: 1881
+    gutenberg_agent_id: '48102'
+    url: http://www.gutenberg.org/2009/agents/48102
+    wikipedia: https://en.wikipedia.org/wiki/James_Springer_White
+description: ''
+gutenberg_issued: '2020-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61394'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'White, James, 1821-1881'
+- !lcc 'BX'
+- !lcsh 'Seventh-Day Adventists -- United States -- Biography'
+- !lcsh 'Seventh-Day Adventists -- History'
+- !lcsh 'Adventists -- History'
+- !lcsh 'Millerite movement'
+- GITenberg
+title: Life Incidents, in Connection with the Great Advent Movement, as Illustrated
+  by the Three Angels of Revelation XIV (Volume 1)
+url: http://www.gutenberg.org/ebooks/61394
